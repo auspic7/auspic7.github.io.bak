@@ -1,0 +1,77 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Auspicious Engineer"
+email: "auspic7@gmail.com"
+description: >- # this means to ignore newlines until "baseurl:"
+  "운이 좋은 소프트웨어 엔지니어입니다. 다양한 분야에 관심이 있습니다."
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://auspic7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+locale: "ko-KR"
+name: "Myeongwon Choi"
+repository: "auspic7/blog"
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
+# about me
+author:
+  name     : "Myeongwon Choi"
+  # avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "운이 좋은 소프트웨어 엔지니어입니다. 다양한 분야에 관심이 있습니다."
+  location : "Seoul, Korea" 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:auspic7@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/auspic7"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/auspic7"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+timezone: Asia/Seoul
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
