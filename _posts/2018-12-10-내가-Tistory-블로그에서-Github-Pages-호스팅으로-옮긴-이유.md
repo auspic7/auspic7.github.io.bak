@@ -1,5 +1,4 @@
 ---
-layout: "posts"
 title:  "내가 Tistory 블로그에서 Github Pages 호스팅으로 옮긴 이유"
 permalink: "/:categories/comparison-with-github-pages-and-other-blog-services"
 date: 2018-12-10 14:00:00 +0900
