@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://auspic7.github.io/sitemap.xml
