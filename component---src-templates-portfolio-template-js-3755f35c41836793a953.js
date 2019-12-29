@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"I+nL":function(t,e,n){"use strict";n.r(e);var o=n("q1tI"),l=n.n(o),a=n("Zttt");e.default=function(){return l.a.createElement(a.a,{title:"Portfolio Myeongwon Choi"},l.a.createElement("h1",null,"hello world!"))}}}]);
+//# sourceMappingURL=component---src-templates-portfolio-template-js-3755f35c41836793a953.js.map

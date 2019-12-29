@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Auspicious Engineer]]></title><description><![CDATA[IT 관련 정보에 대해 포스팅하는 블로그입니다. Mac, 컴퓨터 공학 분야에 관한 내용을 주로 포스팅합니다.]]></description><link>https://auspic7.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 Dec 2019 08:20:37 GMT</lastBuildDate><item><title><![CDATA[내가 Tistory 블로그에서 Github Pages 호스팅으로 옮긴 이유]]></title><description><![CDATA[꽤나 오랜 시간 함께 해왔던 Tistory 블로그를 청산하고 Jekyll을 통해 페이지를 생성하는 Github Pages로 블로그 서비스를 바꾸게 되었습니다. ]]></description><link>https://auspic7.github.io/posts/comparison-with-github-pages-and-other-blog-services/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://auspic7.github.io/posts/comparison-with-github-pages-and-other-blog-services/perfecting-the-art-of-perfection</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;꽤나 오랜 시간 함께 해왔던 &lt;a href=&quot;tistory.com&quot;&gt;Tistory&lt;/a&gt; 블로그를 청산하고 &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Jekyll&lt;/a&gt;을 통해 페이지를 생성하는 &lt;a href=&quot;github.io&quot;&gt;Github Pages&lt;/a&gt;로 블로그 서비스를 바꾸게 되었습니다. 사실 이 둘은 블로그를 제공한다는 점 이외에는 접점이 없을 정도로 굉장히 차이가 큰 서비스입니다만, 옮기게 된 김에 장단점에 대해서 한번 알아보도록 합시다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Auspicious Engineer]]></title><description><![CDATA[IT 관련 정보에 대해 포스팅하는 블로그입니다. Mac, 컴퓨터 공학 분야에 관한 내용을 주로 포스팅합니다.]]></description><link>https://auspic7.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 29 Dec 2019 11:01:46 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://auspic7.github.io/posts/template/</link><guid isPermaLink="false">https://auspic7.github.io/posts/template/</guid><content:encoded></content:encoded></item><item><title><![CDATA[정말 마지막으로 블로그 Gatsby로 옮기기]]></title><description><![CDATA[정말 마지막이라고 결심하며 블로그를 다시 옮겼습니다.]]></description><link>https://auspic7.github.io/posts/blog-revised/</link><guid isPermaLink="false">https://auspic7.github.io/posts/blog-revised/</guid><pubDate>Sun, 29 Dec 2019 06:14:09 GMT</pubDate><content:encoded>&lt;p&gt;다시 블로그를 거의 완성한 후 그동안의 족적을 돌이켜 보니 정말 많은 변화가 있었습니다. 아무것도 모르던 어린 시절에는 네이버 블로그에 아무런 말이나 써서 올리곤 했고, 코딩을 시작하고 나서는 시험삼아 만든 프로그램의 소스코드를 첨부파일로 올리기도 했던 기억이 납니다. &lt;/p&gt;
+&lt;p&gt;그 이후에는 티스토리였습니다. 티스토리 블로그는 아예 스킨을 CSS와 JS로 커스터마이징할 수 있고 이를 이용해 애드센스를 이용한 광고 또한 삽입할 수 있는 등 당시의 제 입장에서는 정말 신기한 서비스 블로그였다고 생각합니다.&lt;/p&gt;
+&lt;p&gt;소스 파일을 처&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Authenticating to network가 반복적으로 뜰 경우]]></title><description><![CDATA[사실 나는 원래 그냥 아무 생각 없이 확인 버튼을 누르곤 하는 이른 바 '예스맨'인 관계로 매번 맥에서 무슨 다이얼로그가 뜨더라도 대부분 무시하곤 했다. ]]></description><link>https://auspic7.github.io/posts/mac-auth-to-network/</link><guid isPermaLink="false">https://auspic7.github.io/posts/mac-auth-to-network/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;사실 나는 원래 그냥 아무 생각 없이 확인 버튼을 누르곤 하는 이른 바 ‘예스맨’인 관계로 매번 맥에서 무슨 다이얼로그가 뜨더라도 대부분 무시하곤 했다. 또한 문제점이 발생하더라도 macOS는 버전이 올라가며 해결되곤 하는 편이라 신경을 끄고 산 것도 있었는데, 이건 버전 세 개가 올라가도록 해결될 기미가 안 보여서 내가 직접 찾아보기로 했다.&lt;/p&gt;
+&lt;h1 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/24e109c3419790a6ca5242321138d411/93bed/mac_auth_to_network01.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 39.541984732824424%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABuElEQVQoz5WRS07jQBCGm2HBTCBIg4QILzGEGeIkduz4GWwnsZ04xuA4QEhAiFNwAxacgntwA7AER0HZsqHTPdUtYAMbFp/+Uqmquv8qtLK5NSupdVusyx2hJvk7lYq/LQicIvBPFH1Blv0ywLRUq31CYCpJrH4RrW2sLUuGOVHdNq2oGpVNk9YbDaoAsmVR1bap4brUaDZ5XFHVLxF1nf6tVrsIoZ+FpudMbq6vaLDfnYZJn4wvL8nw4oKkoxE5Go9JenpKjs/OSJSmZM/3iR0EHzQ8j7idztRstehOuRzBwELhJNYn97cjOhh0ppYXQGOfdA8P+YAwSUgQxx8KPyXmGyzWXZdYrdZUcxw2sIdW1tcLoq49K6YOdo1XsIWhCOuOg6EJw8sYfoVtwGq3sWQYuKppWFAUrmCXxa/M8q4o9tCvfH4VGl8sz6c12JkfxxSscpLhkO+O5eX3vQLNMKTH5+fUiyIaDQY8Zrk/pdIBmsvlluqWdQfHeIIrPtiel0X9ftZLEg7ks7KiZFVV5UBNBkfK9tM0A6tZOwx5bDjO40axaKDf+fwMuwywAMy/6Xd478kBP/4DgWfLqn/nYEUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/24e109c3419790a6ca5242321138d411/8ac56/mac_auth_to_network01.webp 240w,
+/static/24e109c3419790a6ca5242321138d411/d3be9/mac_auth_to_network01.webp 480w,
+/static/24e109c3419790a6ca5242321138d411/e46b2/mac_auth_to_network01.webp 960w,
+/static/24e109c3419790a6ca5242321138d411/2b4a4/mac_auth_to_network01.webp 1310w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/24e109c3419790a6ca5242321138d411/e4891/mac_auth_to_network01.png 240w,
+/static/24e109c3419790a6ca5242321138d411/0ce91/mac_auth_to_network01.png 480w,
+/static/24e109c3419790a6ca5242321138d411/b7c40/mac_auth_to_network01.png 960w,
+/static/24e109c3419790a6ca5242321138d411/93bed/mac_auth_to_network01.png 1310w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/24e109c3419790a6ca5242321138d411/b7c40/mac_auth_to_network01.png&quot;
+          alt=&quot;mac_auth_to_network01&quot;
+          title=&quot;mac_auth_to_network01&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;와이파이 접속할 때마다 뜨는 대화상자. 덮개를 열었을 때도 예외는 아니다&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;문제 발생 상황: WPA2 보안 방식을 사용하는 무선 랜 네트워크에 연결을 시도할 경우 인증서에 모종의 문제가 있는 경우&lt;/li&gt;
+&lt;li&gt;OS 환경: macOS 10.12, macOS 10.13, macOS 10.14&lt;/li&gt;
+&lt;li&gt;증상: 와이파이를 사용하려고 할 때마다 확인 버튼을 눌러야 연결되므로 불편을 초래함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;해결&quot;&gt;&lt;a href=&quot;#%ED%95%B4%EA%B2%B0&quot; aria-label=&quot;해결 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;해결&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;다이얼로그에서 ‘Show Certificate’ 클릭 후 관련된 인증서들을 확인&lt;/li&gt;
+&lt;li&gt;키체인 접근(Keychain access) 실행&lt;/li&gt;
+&lt;li&gt;모든 탭에서 관련된 인증서를 찾아 전부 삭제&lt;/li&gt;
+&lt;li&gt;네트워크에 다시 연결 후 추가된 인증서의 컨텍스트 메뉴에서 Get info 클릭&lt;/li&gt;
+&lt;li&gt;‘When using this certificate’에서 ‘Always Trust’를 선택&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;참고문헌&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0%EB%AC%B8%ED%97%8C&quot; aria-label=&quot;참고문헌 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고문헌&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://discussions.apple.com/thread/7201481&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Apple discussions “Wi-Fi Connection to WPA2 Enterprise Keeps Asking to Verify Certificate”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://superuser.com/questions/1036236/mac-os-x-verify-certificate-every-time-connecting-to-secure-wireless&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Superuser “Mac OS X “Verify Certificate” every time connecting to secure wireless”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[내가 Tistory 블로그에서 Github Pages 호스팅으로 옮긴 이유]]></title><description><![CDATA[꽤나 오랜 시간 함께 해왔던 Tistory 블로그를 청산하고 Jekyll을 통해 페이지를 생성하는 Github Pages로 블로그 서비스를 바꾸게 되었습니다. ]]></description><link>https://auspic7.github.io/posts/comparison-with-github-pages-and-other-blog-services/</link><guid isPermaLink="false">https://auspic7.github.io/posts/comparison-with-github-pages-and-other-blog-services/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;꽤나 오랜 시간 함께 해왔던 &lt;a href=&quot;tistory.com&quot;&gt;Tistory&lt;/a&gt; 블로그를 청산하고 &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Jekyll&lt;/a&gt;을 통해 페이지를 생성하는 &lt;a href=&quot;github.io&quot;&gt;Github Pages&lt;/a&gt;로 블로그 서비스를 바꾸게 되었습니다. 사실 이 둘은 블로그를 제공한다는 점 이외에는 접점이 없을 정도로 굉장히 차이가 큰 서비스입니다만, 옮기게 된 김에 장단점에 대해서 한번 알아보도록 합시다.&lt;/p&gt;
 &lt;h1 id=&quot;비교&quot;&gt;&lt;a href=&quot;#%EB%B9%84%EA%B5%90&quot; aria-label=&quot;비교 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;비교&lt;/h1&gt;
 &lt;p&gt;사실 사용하는 서비스를 옮겼다고 해서 모든 분야에서 무조건 이쪽이 우위를 점하는 것을 결코 아닙니다. 사용자 입장에서 필요한 기능이 많다는 것은 서비스를 이동할 충분한 동기 부여가 되죠. 여기서는 각각이 가지는 우위에 대해서 한 번 알아봅시다. 저는 개발자 블로그를 지향하고 있기 때문에, 개발자의 입장에서 알아보도록 했습니다.&lt;/p&gt;
 &lt;h2 id=&quot;github-pages-블로그가-유리한-점&quot;&gt;&lt;a href=&quot;#github-pages-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B0%80-%EC%9C%A0%EB%A6%AC%ED%95%9C-%EC%A0%90&quot; aria-label=&quot;github pages 블로그가 유리한 점 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Github Pages 블로그가 유리한 점&lt;/h2&gt;
@@ -211,7 +276,7 @@ int _mat(){
 
 
 
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[보안 구멍의 온상 뽐뿌와 그 뒷이야기]]></title><description><![CDATA[최근 해킹 사건으로 인해 시끄러운 뽐뿌의 보안 취약점에 대해 알아봅니다.]]></description><link>https://auspic7.github.io/posts/ppomppu-hacked/perfecting-the-art-of-perfection</link><guid isPermaLink="false">https://auspic7.github.io/posts/ppomppu-hacked/perfecting-the-art-of-perfection</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;뽐뿌(PPOMPPU)는 대한민국의 쇼핑 관련 정보 공유 사이트로, 15일간 매일 만원씩 구입하면 20만원 적립금을 주는 GS이스토어 이벤트 정보공유를 위해서 오픈했다고 합니다. 이후 여러 가지 좋은 제품 관련 딜을 올리는 사이트로 발전하여 지금의 뽐뿌에서는 먹을거리부터 통신 관련 딜까지 온라인 쇼핑몰 정보 공유 사이트중에서는 단연 1등이라고 할 수 있을 정도의 인지도와 사용자수를 가지고 있었습니다. &lt;/p&gt;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[보안 구멍의 온상 뽐뿌와 그 뒷이야기]]></title><description><![CDATA[최근 해킹 사건으로 인해 시끄러운 뽐뿌의 보안 취약점에 대해 알아봅니다.]]></description><link>https://auspic7.github.io/posts/ppomppu-hacked/</link><guid isPermaLink="false">https://auspic7.github.io/posts/ppomppu-hacked/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;뽐뿌(PPOMPPU)는 대한민국의 쇼핑 관련 정보 공유 사이트로, 15일간 매일 만원씩 구입하면 20만원 적립금을 주는 GS이스토어 이벤트 정보공유를 위해서 오픈했다고 합니다. 이후 여러 가지 좋은 제품 관련 딜을 올리는 사이트로 발전하여 지금의 뽐뿌에서는 먹을거리부터 통신 관련 딜까지 온라인 쇼핑몰 정보 공유 사이트중에서는 단연 1등이라고 할 수 있을 정도의 인지도와 사용자수를 가지고 있었습니다. &lt;/p&gt;
 &lt;p&gt;2015년 9월 11일 오후 3시 경 뽐뿌에서는 회원정보의 유출이 있다는 글이 올라왔고, 해킹 가해자로 추정되는 사람이 글을 올리기 시작하면서 논란은 점점 가속되기 시작했습니다. 설상가상 관리자의 안이한 대응과 해커와 관리자간 거래가 있었다는 의혹이 제기됨과 함께 사이트의 여론은 거칠어진 상태로, 지금은 관리자에 대한 원색적인 비난과 부적절한 운영에 대한 비판이 줄을 지어 올라오고 있는 상태입니다.&lt;/p&gt;
 &lt;p&gt;저 또한 뽐뿌에 상주하던 7레벨 유저로서, 유출된 회원정보에 대한 황당함을 금치 못하였고, 뽐뿌의 보안 수준에 대한 의심이 들기 시작했습니다.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/198f393f8b934ac69d3998f52a9dfb8f/ppomppu_01.gif&quot;&gt;&lt;/p&gt;
